@@ -9,10 +9,10 @@ pipe.enable_attention_slicing()
 pipe = pipe.to("cuda")
 
 # prompts = [
-#     "a programmer touching grass",
-#     "A dreamlike landscape with floating islands and waterfalls under a starry sky.",
-#     "A Roman soldier standing guard in front of the Colosseum during sunset.",
-#     "A cyberpunk character with neon tattoos in a rain-soaked alley."
+#     "Cat riding bike",
+#     "Stars falling from the skt",
+#     "A beautiful sunset at the beach with childern playing",
+#     "Wolf howling at full moon day"
 # ]
 
 prompts="Cat on a boat with beautiful sunset"
