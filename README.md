@@ -19,4 +19,4 @@ prompts = [
      "content 4"
  ]
 ```
-Import Note - there is a ```text_to_image_google_colab.ipynb``` file which you can run in google colab for faster image generation. Before running select the runtime as T4 GPU.
+Important Note - there is a ```text_to_image_google_colab.ipynb``` file which you can run in google colab for faster image generation. Before running select the runtime as T4 GPU.
